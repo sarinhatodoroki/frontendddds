@@ -4,8 +4,12 @@
         background: #dffffd
     }
 
-    #banner
+    #banner { 
+        
+        width: 70%
 
+    }
+    
     h1 {
        text-align: center;
     }
