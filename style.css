@@ -6,8 +6,8 @@
 
     #banner { 
         
-        width: 70%
-
+        width: 50%
+       
     }
     
     h1 {
@@ -26,3 +26,11 @@
    em strong {
         color: rgb(255, 165, 81);
     }
+
+    .itens {
+        font-style: italic;
+     }
+
+    .Beneficios {
+    background-color: rgba(255, 226, 248, 0.863) ;
+ }
