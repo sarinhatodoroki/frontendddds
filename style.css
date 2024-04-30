@@ -1,4 +1,4 @@
-
+o
     body  {
 
         background: #dffffd;
@@ -15,7 +15,13 @@
        
     } 
 
-    h1 {
+    .titulo-principal {
+
+        padding-left: 50px;
+    }
+
+
+    .titulo-centralizado {
        text-align: center;
        text-align: center;
        height: 150px;
@@ -43,4 +49,13 @@
 
     .Beneficios {
     background-color: rgba(255, 226, 248, 0.863) ;
+
+
+ }
+
+ .imagembeneficios{
+
+    align-items: center; 
+    width: 50%;
+    margin-left: 25%
  }
