@@ -1,0 +1,15 @@
+header {
+
+    background-color: rgb(255, 244, 222);
+}
+
+nav li {
+
+    display: inline;
+}
+
+nav a {
+
+    text-transform: uppercase;
+    color:rgb(255, 244, 222)
+}
